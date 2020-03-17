@@ -1,0 +1,16 @@
+$font-color: #434343;
+$font-color-gray: #BEBEBE;
+$font-color-green: #70D44B;
+$font-family: Rubik;
+$font-family-ubuntu: Ubuntu;
+
+@import 'body';
+@import 'container';
+@import 'header';
+@import 'nav';
+@import 'column';
+@import 'custom';
+@import 'modal';
+@import 'content';
+@import 'button';
+@import 'footer';
